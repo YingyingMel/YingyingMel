@@ -6,7 +6,7 @@
   <a href="mailto:yingying.sun7@gmail.com"> <img src="https://img.shields.io/badge/-yingying.sun7%40gmail.com-red?logo=gmail&logoColor=white" alt="Yingying" />  </a>   
 </p>
 
-- 🔭 I’m currently seeking for a job or an intership as a **front-end developer**
+- 🔭 I’m currently seeking for a job or an internship as a **front-end developer**
 - 🌱 I’m currently learning **React TypeScript**
 
 ## Technology Stack I've worked with:
