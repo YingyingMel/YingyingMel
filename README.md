@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently seeking for a job or an internship as a **front-end developer**
 - 🌱 I’m currently learning **React TypeScript**
+- 🌱 Welcome to visit my blog: https://yingyingblog.netlify.app/
 
 ## Technology Stack I've worked with:
 
