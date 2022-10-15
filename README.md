@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Yingying! 👋</h1>
-<h4 align="center">Self-driven and highly motivated junior front-end developer | software tester (QA) </h4>
+<h4 align="center">Self-driven and highly motivated front-end developer | software tester (QA) </h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yingying-sun-98904b184/"> <img src="https://img.shields.io/badge/-Yingying%20SUN-blue?logo=linkedin" alt="Yingying" /> </a>
   <a href="mailto:yingying.sun7@gmail.com"> <img src="https://img.shields.io/badge/-yingying.sun7%40gmail.com-red?logo=gmail&logoColor=white" alt="Yingying" />  </a>   
 </p>
 
-- 🔭 I’m a junior **software tester (QA)** at the moment
+- 🔭 I’m a junior **software tester (QA)**
 - 🌱 I’m currently learning **React** / **Automation testing**
 - 🌱 Welcome to visit my blog: https://yingyingblog.netlify.app/
 
