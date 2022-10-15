@@ -6,7 +6,7 @@
   <a href="mailto:yingying.sun7@gmail.com"> <img src="https://img.shields.io/badge/-yingying.sun7%40gmail.com-red?logo=gmail&logoColor=white" alt="Yingying" />  </a>   
 </p>
 
-- 🔭 I’m a junior **software tester (QA)**
+- 🔭 I’m a **software tester (QA)** at the moment
 - 🌱 I’m currently learning **React** / **Automation testing**
 - 🌱 Welcome to visit my blog: https://yingyingblog.netlify.app/
 
