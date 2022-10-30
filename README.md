@@ -8,7 +8,7 @@
 
 - 🔭 I’m a **software tester (QA)** at the moment
 - 🌱 I’m currently learning **React** / **Automation testing**
-- 🌱 Welcome to visit my blog: https://yingyingblog.netlify.app/
+- 🌱 Welcome to 11 visit my blog: https://yingyingblog.netlify.app/
 
 ## Technology Stack I've worked with:
 
